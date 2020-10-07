@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quake Report</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_earthquake">EarthquakeActivity</string>
+
+    <string name="menuString1">Menu 1</string>
+    <string name="menuString2">Menu 2</string>
+    <string name="menuString3">Menu 3</string>
+</resources>
